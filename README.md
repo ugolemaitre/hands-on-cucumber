@@ -28,6 +28,12 @@ From Cucumber Skeleton ([Cucumber Java minimal project](https://github.com/cucum
 
 ## Resources :
 
+* [Cucumber.io](https://cucumber.io/)
+
 * [Introduction to Behaviour-Driven Development](https://school.cucumber.io/courses/fundamentals-of-bdd) 
 
 * [Cucumber Java minimal project](https://github.com/cucumber/cucumber-java-skeleton)
+
+* [Jira](https://hands-on-cucumber.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CUCUMBER&view=planning&selectedIssue=CUCUMBER-4&issueLimit=100&atlOrigin=eyJpIjoiMjQ1YzQzYWQ2M2MyNDdiZTg3ZWE2MjUxYTlmODJmNjIiLCJwIjoiaiJ9)
+
+* [Some thoughs on writing good acceptance test](https://thoughtbot.com/blog/describe-the-users-perspective-ddd-acceptance)
